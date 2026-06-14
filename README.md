@@ -38,7 +38,7 @@
   <h2 id="fun-facts-and-resume">
     Resume
     <small style="font-weight: normal;">
-      <a href="https://drive.google.com/file/d/1zxexlU-rsBzr3MixWSTZEh4QQk2ZVghK/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+      <a href="https://drive.google.com/file/d/1OdIo0CpbAFTh8UzvQahFZJVdqctDyEd2/view?usp=sharing" target="_blank" rel="noopener noreferrer">
         (📄 View Resume) <!-- IMPORTANT: Replace "https://your-resume-link.com" with your actual resume link! -->
       </a>
     </small>
