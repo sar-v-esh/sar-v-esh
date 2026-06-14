@@ -70,10 +70,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/0_0.s.a.r.v.e.s.h.0_0?igsh=N3Q4YWljNnlvN2Fx" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
 <a href="mailto:sarvesh23603@gmail.com" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" />
 </a>
